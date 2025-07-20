@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+joblib
+langchain
+langchain-community
+replicate
+python-dotenv
