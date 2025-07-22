@@ -59,3 +59,12 @@ This project addresses the real-world need for early cardiovascular risk detecti
 ```bash
 git clone https://github.com/heaven-castle/HeartRiskAI
 cd heart-risk-ai
+
+### 2. Model And Data
+
+data https://drive.google.com/drive/folders/11F-G2TdXi8qyiltzMW3tBV2uMukowxSK
+
+### 3. App web
+https://heartriskai.streamlit.app/
+
+
